@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am Manish Jayan, a junior web developer 
-- I'm currently working in go and looking to get into full stack with go
+- I'm currently working in GO and looking to get into full stack with GO
 
 <!--
 **manishjayan/manishjayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
