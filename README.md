@@ -1,8 +1,10 @@
-### Hi there 👋
+<h2>
+<div align='center'>
 
-- I am Manish Jayan, a junior web developer 
-- I'm currently working in GO and looking to get into full stack with GO
+    Hi there 👋 I am Manish Jayan
 
+</div>
+</h2>
 <!--
 **manishjayan/manishjayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
